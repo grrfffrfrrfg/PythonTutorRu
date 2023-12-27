@@ -10,3 +10,5 @@ for i in range(k):
 print(len(days))
 
 # создаем список и множество, проходим по переменным k, days объединяем в другой список, там, где остаток не будет в периоде 0 и 6, далее принтуем длину days
+N,K = (int (s) for s inpit () .split () )
+work_days = set ( ( day for day in range (1,N +  no _strike
